@@ -1,2 +1,4 @@
 cross_sectional_env/
 data/
+final_data/*.csv
+final_data/*.parquet
