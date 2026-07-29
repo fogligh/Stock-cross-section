@@ -1,0 +1,8 @@
+{
+    "train_window": 252,
+    "test_window": 63,
+    "predict_horizon": 5,
+    "ml_top_pct": 0.6,
+    "feature_count": 21,
+    "model_count": 3
+}
