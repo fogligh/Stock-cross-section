@@ -1,0 +1,10 @@
+factor1,factor2,correlation
+auto_amount_ma_30_processed,auto_amount_ma_30_1_processed,1.0
+auto_std_60_processed,auto_std_60_1_processed,1.0
+auto_volatility_20_processed,auto_volatility_20_1_processed,1.0
+auto_std_ratio_5_processed,auto_std_ratio_5_1_processed,1.0
+auto_quantile_0.25_30_1_processed,auto_quantile_0.25_30_processed,1.0
+auto_std_60_1_processed,auto_quantile_0.25_30_1_processed,0.7644719348379908
+auto_std_60_processed,auto_quantile_0.25_30_processed,0.7644719348379908
+auto_std_60_processed,auto_quantile_0.25_30_1_processed,0.7644719348379908
+auto_std_60_1_processed,auto_quantile_0.25_30_processed,0.7644719348379908
