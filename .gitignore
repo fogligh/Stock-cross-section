@@ -2,3 +2,4 @@ cross_sectional_env/
 data/
 final_data/*.csv
 final_data/*.parquet
+因子截面分析/extracted_stk_RF-SVM/stk_RF-SVM/models/model_adaptive_window_0_days_5.pkl
