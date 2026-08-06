@@ -1,0 +1,38 @@
+{
+  "rf_genetic": {
+    "params": {
+      "n_estimators": 138,
+      "max_depth": 34,
+      "min_samples_split": 13,
+      "min_samples_leaf": 4
+    },
+    "accuracy": 0.7375,
+    "time": 43.55376839637756
+  },
+  "rf_annealing": {
+    "params": {
+      "n_estimators": 139,
+      "max_depth": 19,
+      "min_samples_split": 3,
+      "min_samples_leaf": 5
+    },
+    "accuracy": 0.735,
+    "time": 42.40355205535889
+  },
+  "svm_genetic": {
+    "params": {
+      "C": 28.27260244778751,
+      "gamma": 1.8493109519702946
+    },
+    "accuracy": 0.6075,
+    "time": 41.57260298728943
+  },
+  "svm_annealing": {
+    "params": {
+      "C": 33.61521037436351,
+      "gamma": 0.035502701022855576
+    },
+    "accuracy": 0.7025,
+    "time": 43.698941230773926
+  }
+}
