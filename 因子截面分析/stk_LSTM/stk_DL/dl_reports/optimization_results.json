@@ -1,0 +1,33 @@
+{
+  "genetic": {
+    "params": {
+      "hidden_dim": 20,
+      "num_layers": 1,
+      "lr": 0.0001703551262742459,
+      "dropout": 0.3233720347666729
+    },
+    "objective": 0.4825941324234009,
+    "time": 5582.33704662323,
+    "iterations": 20
+  },
+  "annealing": {
+    "params": {
+      "hidden_dim": 19,
+      "num_layers": 2,
+      "lr": 0.00571317326217255,
+      "dropout": 0.2930778771701188
+    },
+    "objective": 0.350572407245636,
+    "time": 2333.145694255829,
+    "iterations": 30
+  },
+  "best": {
+    "method": "\u9057\u4f20\u7b97\u6cd5",
+    "params": {
+      "hidden_dim": 20,
+      "num_layers": 1,
+      "lr": 0.0001703551262742459,
+      "dropout": 0.3233720347666729
+    }
+  }
+}
