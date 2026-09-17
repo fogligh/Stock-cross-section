@@ -1,0 +1,15 @@
+tdx_factor/
+├── core/
+│   ├── decorators.py      # 装饰器语法糖
+│   ├── registry.py        # 因子注册中心
+│   ├── engine.py          # 计算引擎
+│   └── validator.py       # 校验器
+├── factors/
+│   ├── trend.py           # 趋势类因子
+│   ├── momentum.py        # 动量类因子
+│   └── volume.py          # 量价类因子
+├── storage/
+│   ├── database.py        # 入库
+│   └── cache.py           # 缓存
+└── tests/
+    └── test_factors.py
